@@ -1,0 +1,1 @@
+"C:\Users\Admin\AppData\Local\Programs\Python\Python311\Scripts\pytest.exe" -v -s -n=5 --html=HTMLReports/myreport_firefox.html --browser firefox --alluredir="Allure-results" -p no:warnings
